@@ -1,4 +1,5 @@
-Dice Game
+Dice Game: https://siddharth1401.github.io/Dice-Game/
+
 Developed an interactive web-based Dice Game application using HTML, CSS, and JavaScript.
 Implemented a two-player gameplay mechanism where users can roll a virtual dice to generate random numbers.
 Utilized JavaScript's Math.random() function to simulate dice rolling and generate random outcomes.
